@@ -1,3 +1,6 @@
+--Query to populate top 5 producers per month
+--Results populate multiple operators per month but i'm looking to only show top 5 distinct operators per month by total gas quantity
+
 WITH CTE
 AS
 (
